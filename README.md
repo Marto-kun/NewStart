@@ -1,2 +1,2 @@
 # NewStart
-Just a simple projecto to test a tutorial :D
+Just a simple project to test a tutorial :D
